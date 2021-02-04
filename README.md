@@ -1,2 +1,2 @@
 # hello-world
-Idk anymore
+Idk anymore this is just for school
